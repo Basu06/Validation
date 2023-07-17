@@ -1,0 +1,8 @@
+C:\Dotnet\ConsoleAppValidation\ConsoleAppValidation\obj\Debug\ConsoleAppValidation.csproj.AssemblyReference.cache
+C:\Dotnet\ConsoleAppValidation\ConsoleAppValidation\obj\Debug\ConsoleAppValidation.csproj.SuggestedBindingRedirects.cache
+C:\Dotnet\ConsoleAppValidation\ConsoleAppValidation\obj\Debug\ConsoleAppValidation.csproj.CoreCompileInputs.cache
+C:\Dotnet\ConsoleAppValidation\ConsoleAppValidation\bin\Debug\ConsoleAppValidation.exe.config
+C:\Dotnet\ConsoleAppValidation\ConsoleAppValidation\bin\Debug\ConsoleAppValidation.exe
+C:\Dotnet\ConsoleAppValidation\ConsoleAppValidation\bin\Debug\ConsoleAppValidation.pdb
+C:\Dotnet\ConsoleAppValidation\ConsoleAppValidation\obj\Debug\ConsoleAppValidation.exe
+C:\Dotnet\ConsoleAppValidation\ConsoleAppValidation\obj\Debug\ConsoleAppValidation.pdb
